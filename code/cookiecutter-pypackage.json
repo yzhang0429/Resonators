@@ -1,0 +1,20 @@
+{
+  "cookiecutter": {
+    "full_name": "Yining Zhang",
+    "email": "y.zhang-42@tudelft.nl",
+    "github_username": "yzhang0429",
+    "project_name": "resonators",
+    "project_slug": "resonators",
+    "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
+    "pypi_username": "yzhang0429",
+    "version": "0.1.0",
+    "use_pytest": "n",
+    "use_black": "n",
+    "use_pypi_deployment_with_travis": "y",
+    "add_pyup_badge": "n",
+    "command_line_interface": "Click",
+    "create_author_file": "y",
+    "open_source_license": "MIT license",
+    "_template": "cookiecutter-pypackage/"
+  }
+}
